@@ -43,7 +43,7 @@ hr {
 
 .truss--01__bg {
   background-color: #999;
-  background-image: url(img/bg.png);
+  background-image: url(img/background.png);
   background-repeat: no-repeat;
   background-position: center center;
   -webkit-background-size: cover;
