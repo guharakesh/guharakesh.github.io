@@ -292,6 +292,7 @@ footer hr {
   margin-right: auto;
   display: block;
   margin-top: 40px;
+	width: 100%;
 }
 
 .testimonial p {
